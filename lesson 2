@@ -1,0 +1,18 @@
+public class main {
+    public static void main(String[] args){
+        int suma1 = 200 + 100;
+        int suma2 = suma1 + 500;
+        int mult1 = suma1 * suma2;
+        System.out.println("умножение = " + mult1);
+    }
+}
+
+/*int name - 123
+float name - 22.22f
+char name - a/97 (symbol)
+boolean name - true
+String name - text */
+
+
+
+// byte -> short -> char -> int -> long -> float -> double double -> float -> long -> int -> char -> short -> byte
