@@ -1,2 +1,10 @@
 # java
 my first lesson java
+public class main {
+    public static void main(String[] args) {
+        double x = 5;
+        double y = 2;
+        double a = x-y;
+        System.out.println(a);
+    }
+}
