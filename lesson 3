@@ -1,0 +1,10 @@
+public class main {
+    public static void main(String[] args){
+        System.out.println(Math.max(10, 5));
+        System.out.println(Math.min(10, 5));
+        System.out.println(Math.sqrt(64));
+        System.out.println(Math.random());
+        int randomNum = (int)(Math.random() * 101);
+        System.out.println(randomNum);
+    }
+}
