@@ -1,0 +1,12 @@
+public class main{
+    public static void main(String[] args){
+int time = 20;
+if(time < 20){
+System.out.println("Осталось мало времени!");
+}else if(time > 20){
+System.out.println("Время ещё много.");
+}else{
+    System.out.println("Ну хз.");
+}
+}
+}
